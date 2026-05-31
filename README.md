@@ -102,23 +102,6 @@ The application supports **4 languages**: Arabic (العربية), English, Turk
 </tr>
 </table>
 
-### Dashboard & Home Screen
-![Dashboard](assets/images/screenshots/dashboard.png)
-
-### Client Management
-![Clients](assets/images/screenshots/clients.png)
-
-### Sales & Transactions
-![Sales](assets/images/screenshots/sales.png)
-
-### Financial Reports
-![Reports](assets/images/screenshots/reports.png)
-
-### Inventory Management
-![Inventory](assets/images/screenshots/inventory.png)
-
-### Employee Management
-![Employees](assets/images/screenshots/employees.png)
 
 ---
 
