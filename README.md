@@ -59,44 +59,44 @@ The application supports **4 languages**: Arabic (العربية), English, Turk
 <table>
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/849b8a6c-1741-46ea-8740-612a37300f07" width="450"><br>
+<img src="https://github.com/user-attachments/assets/849b8a6c-1741-46ea-8740-612a37300f07" width="400"><br>
 <b>Login Screen</b>
 </td>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/16bded50-432f-4c15-b087-2f8f5b67fac8" width="450"><br>
+<img src="https://github.com/user-attachments/assets/16bded50-432f-4c15-b087-2f8f5b67fac8" width="400"><br>
 <b>Dashboard</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/b8fb1ecd-0852-43d7-b094-6d3030e6ade0" width="450"><br>
+<img src="https://github.com/user-attachments/assets/b8fb1ecd-0852-43d7-b094-6d3030e6ade0" width="400"><br>
 <b>Navigation Menu</b>
 </td>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/eba91347-bc7b-4253-afc2-14d269119f7e" width="450"><br>
+<img src="https://github.com/user-attachments/assets/eba91347-bc7b-4253-afc2-14d269119f7e" width="400"><br>
 <b>Client Management</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/1b1e232f-b468-4f7d-b737-b32e47f48941" width="450"><br>
+<img src="https://github.com/user-attachments/assets/1b1e232f-b468-4f7d-b737-b32e47f48941" width="400"><br>
 <b>Reservation Form</b>
 </td>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/d7c382e8-81d3-43b7-9ce2-d61fbd8e8a1a" width="450"><br>
+<img src="https://github.com/user-attachments/assets/d7c382e8-81d3-43b7-9ce2-d61fbd8e8a1a" width="400"><br>
 <b>Settings</b>
 </td>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/a77a2b0c-886b-40ef-8a1e-7ac7a62a2e87" width="450"><br>
+<img src="https://github.com/user-attachments/assets/a77a2b0c-886b-40ef-8a1e-7ac7a62a2e87" width="400"><br>
 <b>Dark Theme</b>
 </td>
 <td align="center">
-<img src="https://github.com/user-attachments/assets/69733b0a-05f0-46e6-a005-3eec5ded3fa8" width="450"><br>
+<img src="https://github.com/user-attachments/assets/69733b0a-05f0-46e6-a005-3eec5ded3fa8" width="400"><br>
 <b>Data Synchronization</b>
 </td>
 </tr>
