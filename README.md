@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Oliver Logo](<img width="936" height="937" alt="olive_logo" src="https://github.com/user-attachments/assets/436f38f7-b9fe-4dc3-85aa-e9783d1ed7ce" />)
+![Oliver Logo](https://github.com/user-attachments/assets/436f38f7-b9fe-4dc3-85aa-e9783d1ed7ce)
 
 **A comprehensive desktop application for managing olive presses, financial operations, inventory, and personnel**
 
