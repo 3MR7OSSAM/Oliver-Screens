@@ -54,8 +54,6 @@ The application supports **4 languages**: Arabic (العربية), English, Turk
 
 ---
 
-## 📸 Screenshots
-
 <h2>📸 Screenshots</h2>
 
 <table>
